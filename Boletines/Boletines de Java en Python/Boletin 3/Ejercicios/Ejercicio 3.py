@@ -1,0 +1,8 @@
+# Escribir un programa que nos pida nuestro nombre y apellidos (dos peticiones
+# diferentes hechas en ese orden) y nos lo escriba formateado de la siguiente forma:
+# Morales Vázquez, José María
+
+nombre = input("Introduce tu nombre: ")
+apellidos = input("Introduce tu apellido: ")
+
+print(f"{apellidos}, {nombre}")
