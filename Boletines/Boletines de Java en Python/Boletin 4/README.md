@@ -51,4 +51,3 @@ Este boletín de ejercicios está orientado a practicar con todo lo visto en los
 14. Escribe un programa que lea una hora por teclado en formato 24 horas (HH:MM). Tu programa debería de decir si corresponde a la mañana (entre las 6 y las 11, ambas inclusive), si es una hora de la tarde (entre las 12 y las 19, ambas inclusive), si es de la noche (entre las 20 y las 23, ambas inclusive), si es de la madrugada (entre las 0 y las 5, ambas inclusive) o bien, si el formato no es correcto o no se corresponde con una hora real (minutos de más de 60, horas negativas o por encima de 23, etc.).
 
 ---
-*José María Morales Vázquez*
