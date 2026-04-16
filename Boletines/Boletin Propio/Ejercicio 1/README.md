@@ -1,7 +1,5 @@
 # 13. Romano a Entero
 
-Resuelta · Fácil
-
 Los números romanos se representan con siete símbolos diferentes: `I`, `V`, `X`, `L`, `C`, `D` y `M`.
 
 ```
