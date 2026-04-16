@@ -4,3 +4,13 @@
 # Mundo la primera cadena sería Hl ud y la segunda oaMno
 
 texto = input("Introduce una frase: ")
+pares = ""
+impares = ""
+
+for i in range(len(texto)):
+    if i % 2 == 0:
+        pares += texto[i]
+    else:
+        impares += texto[i]
+print("Letras en lugar par:", pares)
+print("Letras en lugar impar:", impares)
