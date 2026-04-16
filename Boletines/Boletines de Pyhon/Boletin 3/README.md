@@ -58,5 +58,3 @@ Para obtener la letra del NIF deberemos tomar de sumar las ocho cifras del códi
 > **NOTA:** cuando aprendamos a manejarnos con colecciones y listas será mucho más fácil hacer esto. Por el momento puedes hacerlo con un `match` enooooorme!
 
 ---
-
-*José María Morales Vázquez*
