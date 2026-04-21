@@ -2,7 +2,7 @@
 
 ---
 
-## Ejercicio 01
+## Ejercicio 1
 
 Escriba un programa que permita crear una lista de palabras. Para ello, el programa tiene que pedir un número y luego solicitar ese número de palabras para crear la lista. Por último, el programa tiene que escribir la lista.
 
@@ -19,7 +19,7 @@ Dígame cuántas palabras tiene la lista: 0
 
 ---
 
-## Ejercicio 02
+## Ejercicio 2
 
 Escriba un programa que permita crear una lista de palabras y que, a continuación, pida una palabra y diga cuántas veces aparece esa palabra en la lista.
 
@@ -42,7 +42,7 @@ La palabra 'David' no aparece en la lista.
 
 ---
 
-## Ejercicio 03
+## Ejercicio 3
 
 Escriba un programa que permita crear una lista de palabras y que, a continuación, pida dos palabras y sustituya la primera por la segunda en la lista.
 
@@ -60,7 +60,7 @@ La lista es ahora: ['Alberto', 'David', 'Benito', 'David']
 
 ---
 
-## Ejercicio 04
+## Ejercicio 4
 
 Escriba un programa que permita crear una lista de palabras y que, a continuación, pida una palabra y elimine esa palabra de la lista.
 
@@ -77,7 +77,7 @@ La lista es ahora: ['Alberto', 'Benito']
 
 ---
 
-## Ejercicio 05
+## Ejercicio 5
 
 Escriba un programa que permita crear dos listas de palabras y que, a continuación, elimine de la primera lista los nombres de la segunda lista.
 
@@ -99,7 +99,7 @@ La lista es ahora: ['Alberto', 'David']
 
 ---
 
-## Ejercicio 06
+## Ejercicio 6
 
 Escriba un programa que permita crear una lista de palabras y que, a continuación, cree una segunda lista igual a la primera, pero al revés (no se trata de escribir la lista al revés, sino de crear una lista distinta).
 
@@ -115,7 +115,7 @@ La lista inversa es: ['Daniel', 'Benito', 'Carmen', 'Alberto']
 
 ---
 
-## Ejercicio 07
+## Ejercicio 7
 
 Escriba un programa que permita crear una lista de palabras y que, a continuación, elimine los elementos repetidos (dejando únicamente el primero de los elementos repetidos).
 
